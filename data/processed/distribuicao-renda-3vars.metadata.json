@@ -1,7 +1,7 @@
 {
-  "created_at": "2025-09-01T19:55:58",
-  "source_file": "C:\\Users\\anderson51599526\\Desktop\\kmeans-3d-cluster\\data\\raw\\distribuicao-renda.csv",
-  "output_file": "C:\\Users\\anderson51599526\\Desktop\\kmeans-3d-cluster\\data\\processed\\distribuicao-renda-3vars.csv",
+  "created_at": "2025-09-01T21:20:15",
+  "source_file": "C:\\Users\\renan\\OneDrive\\Desktop\\kmeans-3d-cluster\\data\\raw\\distribuicao-renda.csv",
+  "output_file": "C:\\Users\\renan\\OneDrive\\Desktop\\kmeans-3d-cluster\\data\\processed\\distribuicao-renda-3vars.csv",
   "year_base": 2020,
   "sampling_rule": "ano=max; UFs=all (excl. agregados nacionais); centis=1..N tal que linhas entre 300-500",
   "n_rows": 150,
