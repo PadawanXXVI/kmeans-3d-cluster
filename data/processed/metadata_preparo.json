@@ -1,0 +1,37 @@
+{
+  "generated_at": "2025-09-08T16:45:08.955522Z",
+  "anos_iniciais": [
+    2010,
+    2020
+  ],
+  "anos_escolhidos": [
+    2006,
+    2020
+  ],
+  "intervalo_centil": [
+    1,
+    50
+  ],
+  "usou_intersecao_uf_centil": true,
+  "sample_size": 400,
+  "sample_counts_por_ano": {
+    "2006": 200,
+    "2020": 200
+  },
+  "total_clean": 46200,
+  "total_raw": 46350,
+  "duplicatas_removidas": 0,
+  "percent_nulos_por_ano_escolhido": {
+    "2006": {
+      "rtb_soma_centil": 12.31,
+      "bens_imoveis": 1.33,
+      "dividas_onus": 2.76
+    },
+    "2020": {
+      "rtb_soma_centil": 5.55,
+      "bens_imoveis": 0.0,
+      "dividas_onus": 0.0
+    }
+  },
+  "random_seed": 42
+}
